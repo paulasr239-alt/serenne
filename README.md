@@ -76,3 +76,20 @@ As senhas são protegidas por hash, os dados de conexão ficam no arquivo .env e
 ## Projeto acadêmico
 
 Senac Nações Unidas — 2026.
+
+## Construção do projeto
+
+O desenvolvimento da Serenne foi dividido nas seguintes fases:
+
+- Planejamento da loja virtual de joias.
+- Organização dos arquivos e do banco de dados.
+- Definição da identidade visual em verde e dourado.
+- Criação da vitrine e das categorias de joias.
+- Implementação do sistema de autenticação.
+- Gerenciamento dos produtos no carrinho.
+- Processamento das compras e controle de estoque.
+- Desenvolvimento da área administrativa.
+- Aplicação de validações com JavaScript.
+- Realização dos testes de funcionamento.
+
+Esse registro foi elaborado após o desenvolvimento para documentar as fases de construção do sistema.
