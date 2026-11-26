@@ -57,6 +57,22 @@ O site permite visualizar produtos, realizar compras e administrar o estoque da 
 
 As senhas são protegidas por hash, os dados de conexão ficam no arquivo .env e o painel administrativo possui acesso restrito.
 
+## Requisitos do projeto
+
+- [x] Interface criada com HTML, CSS e Bootstrap.
+- [x] Validação de formulários com JavaScript.
+- [x] Banco de dados MySQL conectado por PDO.
+- [x] Sistema de cadastro e acesso à conta.
+- [x] Proteção das informações dos usuários.
+- [x] Catálogo de joias separado por categorias.
+- [x] Pesquisa e informações dos produtos.
+- [x] Carrinho com cálculo de valores.
+- [x] Compra com pagamento simulado.
+- [x] Gerenciamento de produtos, estoque e pedidos.
+- [x] Área exclusiva para administradores.
+- [x] Arquivos de instalação e configuração.
+- [x] Controle de versões pelo Git e GitHub.
+
 ## Projeto acadêmico
 
 Senac Nações Unidas — 2026.
